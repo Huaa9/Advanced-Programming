@@ -1,4 +1,4 @@
-```fortran
+```c++
   #include <iostream>
   #include <cmath>
   #include <cassert>
