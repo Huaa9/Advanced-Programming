@@ -1,2 +1,2 @@
-# Advanced-Programming-Tutorial-solutions
+# Advanced-Programming
 WS22/23
