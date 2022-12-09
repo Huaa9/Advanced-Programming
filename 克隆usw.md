@@ -21,7 +21,7 @@ ls ~/.ssh
   ```c++
     git push -u origin new_branch //origin为默认储存库名字，当前分支推送到远程仓库
     git push origin originrName:new_branch; //关联
-    git chexkout -b 本地分支 origin/远程分支 //创建并关联 
+    git checkout -b 本地分支 origin/远程分支 //创建并关联 
   ```
 ## 分支
 9. `git branchn`显示所有分支。
